@@ -4,5 +4,5 @@ It's probably quite empty in here, this is because in order for us to give you t
 But don't worry, we've got exciting things coming! 😀
 
 ##### 👨‍💻 Developers:
-- Gonzo (@gonzalologorg)
-- Wookie (@iamwookie)
+- [Gonzo](https://github.com/gonzalologorg)
+- [Wookie](https://github.com/iamwookie)
